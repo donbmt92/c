@@ -14,6 +14,8 @@ import ProductLeadMagnet from './ProductLeadMagnet'
 import ProductRFQ from './ProductRFQ'
 import ProductCTA from './ProductCTA'
 import StickyCTA from './StickyCTA'
+import Header from '../themes/vietnam-coffee/Header'
+import Footer from '../themes/vietnam-coffee/Footer'
 import themeData from '@/data/theme-data.json'
 
 interface ProductPageProps {
@@ -40,45 +42,53 @@ export default function ProductPage({ productId }: ProductPageProps) {
     const theme = themeData as any
 
     return (
-        <div className="min-h-screen">
-            {/* Hero */}
-            <ProductHero theme={theme} content={productData.hero} />
+        <>
+            {/* Header */}
+            <Header theme={theme} content={theme.content?.header || {}} />
 
-            {/* Overview */}
-            <ProductOverview theme={theme} content={productData.overview} />
+            <div className="min-h-screen">
+                {/* Hero */}
+                <ProductHero theme={theme} content={productData.hero} />
 
-            {/* Features */}
-            <ProductFeatures theme={theme} content={{ features: productData.features }} />
+                {/* Overview */}
+                <ProductOverview theme={theme} content={productData.overview} />
 
-            {/* Technical Specs */}
-            <TechnicalSpecs theme={theme} content={productData.specs} />
+                {/* Features */}
+                <ProductFeatures theme={theme} content={{ features: productData.features }} />
 
-            {/* Applications */}
-            <Applications theme={theme} content={productData.applications} />
+                {/* Technical Specs */}
+                <TechnicalSpecs theme={theme} content={productData.specs} />
 
-            {/* Certifications */}
-            <Certifications theme={theme} content={productData.certifications} />
+                {/* Applications */}
+                <Applications theme={theme} content={productData.applications} />
 
-            {/* OEM/ODM Capabilities */}
-            <OEMCapability theme={theme} content={productData.oem} />
+                {/* Certifications */}
+                <Certifications theme={theme} content={productData.certifications} />
 
-            {/* Packaging & Shipping */}
-            <PackagingShipping theme={theme} content={productData.packaging} />
+                {/* OEM/ODM Capabilities */}
+                <OEMCapability theme={theme} content={productData.oem} />
 
-            {/* Why Choose Us */}
-            <WhyChooseUs theme={theme} content={productData.whyChoose} />
+                {/* Packaging & Shipping */}
+                <PackagingShipping theme={theme} content={productData.packaging} />
 
-            {/* Lead Magnet */}
-            <ProductLeadMagnet theme={theme} />
+                {/* Why Choose Us */}
+                <WhyChooseUs theme={theme} content={productData.whyChoose} />
 
-            {/* RFQ Form */}
-            <ProductRFQ theme={theme} />
+                {/* Lead Magnet */}
+                <ProductLeadMagnet theme={theme} />
 
-            {/* CTA */}
-            <ProductCTA theme={theme} />
+                {/* RFQ Form */}
+                <ProductRFQ theme={theme} />
 
-            {/* Sticky CTA */}
-            <StickyCTA theme={theme} />
-        </div>
+                {/* CTA */}
+                <ProductCTA theme={theme} />
+
+                {/* Sticky CTA */}
+                <StickyCTA theme={theme} />
+            </div>
+
+            {/* Footer */}
+            <Footer theme={theme} content={theme.content?.footer || {}} />
+        </>
     )
 }
