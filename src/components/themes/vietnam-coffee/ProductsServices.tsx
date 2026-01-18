@@ -509,6 +509,18 @@ const ProductsServices = ({ theme, content }: ProductsServicesProps) => {
                       {item.price}
                     </div>
                   )}
+                  {item.id && (
+                    <Button
+                      size="lg"
+                      style={getButtonStyles('primary')}
+                      onClick={() => {
+                        window.location.href = `/products/${item.id}`
+                      }}
+                    >
+                      View Details
+                      <ArrowRight className="ml-2 h-5 w-5" />
+                    </Button>
+                  )}
                 </div>
               </div>
             ))}

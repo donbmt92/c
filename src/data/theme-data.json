@@ -1173,7 +1173,7 @@
           ]
         },
         "productName": "Hệ thống Huấn luyện & Mô phỏng",
-        "showPreview": true,
+        "showPreview": false,
         "applications": {
           "title": "Ứng dụng & Trường hợp Sử dụng",
           "applications": [
