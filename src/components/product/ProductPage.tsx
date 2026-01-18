@@ -69,13 +69,13 @@ export default function ProductPage({ productId }: ProductPageProps) {
             <WhyChooseUs theme={theme} content={productData.whyChoose} />
 
             {/* Lead Magnet */}
-            <ProductLeadMagnet theme={theme} content={productData.leadMagnet} />
+            <ProductLeadMagnet theme={theme} />
 
             {/* RFQ Form */}
-            <ProductRFQ theme={theme} content={productData.rfq} />
+            <ProductRFQ theme={theme} />
 
             {/* CTA */}
-            <ProductCTA theme={theme} content={productData.cta} />
+            <ProductCTA theme={theme} />
 
             {/* Sticky CTA */}
             <StickyCTA theme={theme} />

@@ -1,7 +1,7 @@
 import {
     Shield, Zap, Award, Wrench, Clock, Leaf,
     Package, CheckCircle, Star, Target, TrendingUp, Users,
-    Settings, Truck, Factory, Building, Home, Store, Hospital, School
+    Settings, Truck, Factory, Building, Home, Store, School
 } from "lucide-react"
 
 // Map of all available icons for Product Page sections
@@ -24,7 +24,6 @@ export const iconMap: Record<string, any> = {
     Building,
     Home,
     Store,
-    Hospital,
     School
 }
 
