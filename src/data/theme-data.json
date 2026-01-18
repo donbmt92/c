@@ -1,0 +1,1569 @@
+{
+  "colors": {
+    "primary": "#003366",
+    "secondary": "#CC9900",
+    "accent": "#BF0000",
+    "background": "#FFFFFF",
+    "text": "#1A202C",
+    "border": "#E2E8F0"
+  },
+  "typography": {
+    "fontFamily": "Inter",
+    "fontSize": "16px",
+    "headingSize": "lg",
+    "bodySize": "base",
+    "lineHeight": "1.6",
+    "fontWeight": "600"
+  },
+  "layout": {
+    "containerWidth": "1200px",
+    "sectionSpacing": "80px",
+    "spacing": "comfortable",
+    "borderRadius": "8px"
+  },
+  "components": {
+    "button": {
+      "size": "medium",
+      "style": "solid",
+      "rounded": true
+    },
+    "card": {
+      "border": true,
+      "shadow": "medium",
+      "padding": "medium"
+    },
+    "form": {
+      "style": "modern",
+      "validation": "inline"
+    },
+    "navigation": {
+      "style": "horizontal",
+      "sticky": true
+    }
+  },
+  "content": {
+    "meta": {
+      "title": "Cà Phê Việt Nam - Chất Lượng Quốc Tế",
+      "description": "Chuyên cung cấp cà phê Việt Nam chất lượng cao cho thị trường quốc tế",
+      "keywords": "cà phê việt nam, xuất khẩu cà phê, robusta, arabica"
+    },
+    "header": {
+      "title": "VietDefence Systems",
+      "subtitle": "Công nghệ An ninh và Giải pháp Quốc phòng Chiến lược",
+      "backgroundColor": "#FFFFFF",
+      "textColor": "#003366",
+      "logo": "/uploads/1768724911229-nf036a9113h.png",
+      "logoSize": "medium",
+      "colorMode": "custom",
+      "primaryColor": "#8B4513",
+      "navigation": [
+        {
+          "href": "#home",
+          "name": "Trang chủ"
+        },
+        {
+          "href": "#products",
+          "name": "Sản phẩm & Dịch vụ"
+        },
+        {
+          "href": "#about",
+          "name": "Về Chúng Tôi"
+        },
+        {
+          "href": "#news",
+          "name": "Tin tức"
+        },
+        {
+          "href": "#contact",
+          "name": "Liên hệ"
+        }
+      ],
+      "ctaButton": {
+        "href": "#contact",
+        "text": "Hợp tác",
+        "style": "primary"
+      },
+      "socialLinks": [
+        {
+          "url": "https://linkedin.com/company/vietdefence",
+          "icon": "Linkedin",
+          "platform": "linkedin"
+        },
+        {
+          "url": "https://twitter.com/vietdefence",
+          "icon": "Twitter",
+          "platform": "twitter"
+        }
+      ]
+    },
+    "hero": {
+      "title": "Tiên Phong Trong Giải Pháp An Ninh & Quốc Phòng Chiến Lược",
+      "subtitle": "Nghiên cứu, Sản xuất và Cung ứng Trang thiết bị Quân sự Hàng đầu Việt Nam",
+      "description": "VietDefence Systems cung cấp các công nghệ phòng thủ tiên tiến, hệ thống mô phỏng huấn luyện và thiết bị an ninh chiến lược, tuân thủ nghiêm ngặt các quy định pháp luật.",
+      "ctaText": "Xem Danh Mục Sản Phẩm",
+      "ctaSecondaryText": "Yêu cầu Tư vấn",
+      "image": "/assets/hero-image.jpg",
+      "titleSize": "xl",
+      "subtitleSize": "lg",
+      "descriptionSize": "base",
+      "benefitsSize": "base",
+      "ctaSize": "lg",
+      "statsSize": "lg",
+      "titleWeight": "semibold",
+      "subtitleWeight": "medium",
+      "descriptionWeight": "normal",
+      "benefitsWeight": "medium",
+      "ctaWeight": "semibold",
+      "statsWeight": "bold",
+      "titleFont": "inter",
+      "subtitleFont": "inter",
+      "descriptionFont": "inter",
+      "benefitsFont": "inter",
+      "ctaFont": "inter",
+      "statsFont": "inter",
+      "benefits": [
+        {
+          "icon": "Shield",
+          "text": "Công nghệ Phòng thủ Tiên tiến"
+        },
+        {
+          "icon": "Monitor",
+          "text": "Hệ thống Mô phỏng Chiến thuật"
+        },
+        {
+          "icon": "Globe",
+          "text": "Giải pháp An ninh Chiến lược"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Năm Kinh nghiệm",
+          "number": "15+"
+        },
+        {
+          "label": "Dự án Chính phủ",
+          "number": "50+"
+        },
+        {
+          "label": "Tỷ lệ Tương thích",
+          "number": "99%"
+        }
+      ]
+    },
+    "about": {
+      "title": "Về VietDefence Systems",
+      "description": "VietDefence Systems là doanh nghiệp hàng đầu trong lĩnh vực công nghiệp quốc phòng, chuyên sâu vào nghiên cứu, sản xuất và cung ứng các trang thiết bị quân sự và giải pháp an ninh chiến lược. Chúng tôi cam kết mang đến các giải pháp công nghệ cao, đáp ứng yêu cầu khắt khe của Lực lượng Vũ trang và các cơ quan nhà nước có thẩm quyền, đồng thời tuân thủ các quy định pháp luật trong nước và quốc tế.",
+      "image": "/assets/about-image.jpg",
+      "features": [
+        {
+          "icon": "Award",
+          "title": "Tuân Thủ Nghiêm Ngặt",
+          "description": "Thực hiện đầy đủ các quy định pháp luật về xuất nhập khẩu quốc phòng."
+        },
+        {
+          "icon": "TrendingUp",
+          "title": "Hiện Đại Hóa Quân Sự",
+          "description": "Tập trung vào công nghệ phòng thủ, C2/C4ISR và mô phỏng tác chiến."
+        },
+        {
+          "icon": "Users",
+          "title": "Đối Tác Chiến Lược",
+          "description": "Hợp tác chặt chẽ với các cơ quan nhà nước và đối tác quốc tế được cấp phép."
+        }
+      ]
+    },
+    "problems": {
+      "title": "Thách Thức Trong Lĩnh Vực An Ninh & Quốc Phòng",
+      "description": "Nhiều tổ chức gặp khó khăn trong việc tiếp cận công nghệ mới, đảm bảo tính liên tục của hệ thống và tuân thủ các quy định phức tạp.",
+      "backgroundColor": "#F0F8FF",
+      "textColor": "#1A202C",
+      "colorMode": "custom",
+      "primaryColor": "#8B4513",
+      "titleSize": "2xl",
+      "descriptionSize": "base",
+      "titleWeight": "bold",
+      "descriptionWeight": "normal",
+      "titleFont": "inter",
+      "descriptionFont": "inter",
+      "itemTitleWeight": "semibold",
+      "itemTitleFont": "inter",
+      "itemDescriptionSize": "base",
+      "itemDescriptionFont": "inter",
+      "items": [
+        {
+          "id": "1",
+          "icon": "AlertTriangle",
+          "title": "Công nghệ Lỗi thời",
+          "description": "Thiết bị và hệ thống không theo kịp tốc độ phát triển của công nghệ quốc phòng hiện đại."
+        },
+        {
+          "id": "2",
+          "icon": "Clock",
+          "title": "Hạn chế về Mô phỏng",
+          "description": "Thiếu các hệ thống huấn luyện thực tế, dẫn đến giảm hiệu quả đào tạo lực lượng."
+        },
+        {
+          "id": "3",
+          "icon": "DollarSign",
+          "title": "Quy trình Pháp lý Phức tạp",
+          "description": "Khó khăn trong việc tuân thủ các quy định về cấp phép và xuất nhập khẩu thiết bị quốc phòng."
+        },
+        {
+          "id": "4",
+          "icon": "Truck",
+          "title": "Gián đoạn Dịch vụ",
+          "description": "Thời gian ngừng hoạt động kéo dài do thiếu dịch vụ bảo trì và hỗ trợ kỹ thuật kịp thời."
+        }
+      ]
+    },
+    "solutions": {
+      "title": "Giải Pháp Toàn Diện Từ VietDefence Systems",
+      "description": "Chúng tôi cung cấp các giải pháp tích hợp để giải quyết những thách thức trên, đảm bảo hiệu suất và an toàn tối đa.",
+      "backgroundColor": "#F5F5DC",
+      "textColor": "#1A202C",
+      "colorMode": "custom",
+      "primaryColor": "#8B4513",
+      "titleSize": "2xl",
+      "descriptionSize": "base",
+      "titleWeight": "bold",
+      "descriptionWeight": "normal",
+      "titleFont": "inter",
+      "descriptionFont": "inter",
+      "itemTitleWeight": "semibold",
+      "itemTitleFont": "inter",
+      "itemDescriptionSize": "base",
+      "itemDescriptionFont": "inter",
+      "itemBenefitWeight": "medium",
+      "itemBenefitFont": "inter",
+      "items": [
+        {
+          "id": "1",
+          "icon": "Globe",
+          "title": "Cung cấp Thiết bị Hiện đại",
+          "benefit": "Nâng cao năng lực phòng thủ và tác chiến.",
+          "description": "Cung cấp các trang bị quân sự tiêu chuẩn với công nghệ mới nhất, đảm bảo hiệu suất tác chiến cao."
+        },
+        {
+          "id": "2",
+          "icon": "Shield",
+          "title": "Hệ thống Mô phỏng Tích hợp",
+          "benefit": "Huấn luyện chuyên sâu, giảm thiểu rủi ro thực địa.",
+          "description": "Triển khai các hệ thống mô phỏng tác chiến đa nền tảng, tăng cường khả năng sẵn sàng chiến đấu."
+        },
+        {
+          "id": "3",
+          "icon": "Zap",
+          "title": "Hỗ trợ Pháp lý & Chuyển giao",
+          "benefit": "Đảm bảo tuân thủ và hợp pháp hóa hoạt động.",
+          "description": "Tư vấn và hỗ trợ toàn diện về các thủ tục pháp lý liên quan đến quốc phòng và chuyển giao công nghệ."
+        },
+        {
+          "id": "4",
+          "icon": "Package",
+          "title": "Dịch vụ Hậu mãi Chuyên nghiệp",
+          "benefit": "Tối ưu hóa thời gian hoạt động của trang thiết bị.",
+          "description": "Đội ngũ kỹ thuật sẵn sàng bảo trì, sửa chữa và nâng cấp hệ thống theo yêu cầu của đối tác."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Hãy Cùng Chúng Tôi Xây Dựng Lực Lượng Vững Mạnh",
+      "description": "Liên hệ ngay để khám phá cách VietDefence Systems có thể hỗ trợ các nhu cầu chiến lược của quý cơ quan.",
+      "buttonText": "Yêu cầu Báo giá",
+      "buttonSecondaryText": "Xem Hồ sơ Năng lực",
+      "backgroundColor": "#003366",
+      "textColor": "#FFFFFF",
+      "image": "/assets/cta-image.jpg"
+    },
+    "products": {
+      "title": "Sản Phẩm & Giải Pháp Chủ Lực",
+      "description": "Cung cấp các trang bị quân sự tiêu chuẩn (phi sát thương và phòng thủ), hệ thống mô phỏng huấn luyện, và công nghệ an ninh giám sát chiến lược.",
+      "backgroundColor": "#F0F4F8",
+      "textColor": "#1A202C",
+      "colorMode": "custom",
+      "primaryColor": "#8B4513",
+      "titleSize": "2xl",
+      "titleWeight": "bold",
+      "titleFont": "inter",
+      "descriptionSize": "base",
+      "descriptionWeight": "normal",
+      "descriptionFont": "inter",
+      "items": [
+        {
+          "id": "1",
+          "name": "Trang bị Quân sự Tiêu chuẩn",
+          "image": "/uploads/1768724923443-3ill20jzcak.png",
+          "price": "Liên hệ",
+          "category": "Trang bị",
+          "features": [
+            "Thiết bị phòng thủ",
+            "Trang bị phi sát thương",
+            "Đạt chuẩn quốc tế"
+          ],
+          "description": "Cung cấp các thiết bị quốc phòng phi sát thương và phòng thủ, được kiểm định chất lượng nghiêm ngặt."
+        },
+        {
+          "id": "2",
+          "name": "Hệ thống Huấn luyện & Mô phỏng",
+          "image": "/assets/product-2.jpg",
+          "price": "Liên hệ",
+          "category": "Huấn luyện",
+          "features": [
+            "Mô phỏng thực tế ảo",
+            "Huấn luyện chiến thuật",
+            "Phân tích hiệu suất"
+          ],
+          "description": "Giải pháp mô phỏng tác chiến tiên tiến, nâng cao hiệu quả huấn luyện cho lực lượng vũ trang."
+        },
+        {
+          "id": "3",
+          "name": "Công nghệ C2/C4ISR",
+          "image": "/assets/product-3.jpg",
+          "price": "Liên hệ",
+          "category": "Công nghệ",
+          "features": [
+            "Kết nối thông tin tức thời",
+            "Hỗ trợ ra quyết định",
+            "Giám sát chiến lược"
+          ],
+          "description": "Hệ thống Chỉ huy, Kiểm soát và Tình báo, Giám sát, Trinh sát chiến lược."
+        }
+      ],
+      "services": [
+        {
+          "id": "1",
+          "cta": "Tìm hiểu thêm",
+          "icon": "Package",
+          "name": "Bảo trì & Nâng cấp",
+          "description": "Dịch vụ bảo trì định kỳ và nâng cấp công nghệ cho các thiết bị hiện có."
+        },
+        {
+          "id": "2",
+          "cta": "Tìm hiểu thêm",
+          "icon": "Truck",
+          "name": "Chuyển giao Công nghệ",
+          "description": "Thực hiện chuyển giao công nghệ theo giấy phép được phê duyệt."
+        },
+        {
+          "id": "3",
+          "cta": "Tìm hiểu thêm",
+          "icon": "FileText",
+          "name": "Tư vấn Giải pháp",
+          "description": "Cung cấp tư vấn chuyên sâu về chiến lược an ninh và hiện đại hóa trang bị."
+        },
+        {
+          "id": "4",
+          "cta": "Tìm hiểu thêm",
+          "icon": "Users",
+          "name": "Hỗ trợ Kỹ thuật",
+          "description": "Hỗ trợ kỹ thuật 24/7 cho các hệ thống đã triển khai."
+        }
+      ]
+    },
+    "footer": {
+      "companyName": "VietDefence Systems",
+      "description": "Chuyên cung cấp Công nghiệp quốc phòng – Thiết bị & giải pháp quân sự – Công nghệ an ninh chất lượng cao cho thị trường quốc tế.",
+      "backgroundColor": "#003366",
+      "textColor": "#F9FAFB",
+      "contact": {
+        "phone": "+84 (0)24 123 4567",
+        "email": "info@vietdefence.vn",
+        "address": "Tòa nhà ABC, Số 123 Đường X, Hà Nội, Việt Nam",
+        "businessHours": "Thứ 2 - Thứ 6: 8:00 - 17:00"
+      },
+      "quickLinks": [
+        {
+          "href": "#home",
+          "name": "Trang chủ"
+        },
+        {
+          "href": "#products",
+          "name": "Sản phẩm & Dịch vụ"
+        },
+        {
+          "href": "#about",
+          "name": "Về Chúng Tôi"
+        },
+        {
+          "href": "#contact",
+          "name": "Liên hệ"
+        }
+      ],
+      "resources": [
+        {
+          "href": "#docs",
+          "name": "Hồ sơ năng lực"
+        },
+        {
+          "href": "#compliance",
+          "name": "Chính sách Tuân thủ"
+        },
+        {
+          "href": "#faq",
+          "name": "Câu hỏi thường gặp"
+        }
+      ],
+      "legal": [
+        {
+          "href": "#privacy",
+          "name": "Chính Sách Bảo Mật"
+        },
+        {
+          "href": "#terms",
+          "name": "Điều Khoản Dịch Vụ"
+        }
+      ],
+      "socialLinks": [
+        {
+          "href": "#",
+          "icon": "Facebook",
+          "label": "Facebook"
+        },
+        {
+          "href": "#",
+          "icon": "Twitter",
+          "label": "Twitter"
+        },
+        {
+          "href": "#",
+          "icon": "Linkedin",
+          "label": "LinkedIn"
+        }
+      ],
+      "newsletter": {
+        "title": "Đăng ký nhận tin tức ngành",
+        "buttonText": "Đăng ký",
+        "description": "Cập nhật các công nghệ và dự án mới nhất.",
+        "placeholder": "Nhập email của cơ quan/tổ chức"
+      }
+    },
+    "testimonials": {
+      "title": "Đánh Giá Từ Đối Tác Chiến Lược",
+      "subtitle": "Niềm tin của các cơ quan nhà nước và đối tác quốc tế là thước đo thành công của chúng tôi",
+      "backgroundColor": "#EAEAEA",
+      "textColor": "#1A202C",
+      "colorMode": "custom",
+      "primaryColor": "#8B4513",
+      "titleSize": "2xl",
+      "titleWeight": "bold",
+      "titleFont": "inter",
+      "subtitleSize": "lg",
+      "subtitleWeight": "normal",
+      "subtitleFont": "inter",
+      "testimonials": [
+        {
+          "id": "1",
+          "name": "Đại tá Nguyễn Văn A",
+          "image": "/assets/user-1.jpg",
+          "title": "Trưởng phòng Kỹ thuật",
+          "rating": 5,
+          "company": "Bộ Quốc phòng Việt Nam",
+          "content": "VietDefence Systems đã cung cấp các giải pháp mô phỏng chất lượng cao, giúp nâng cao đáng kể hiệu quả huấn luyện của đơn vị chúng tôi."
+        },
+        {
+          "id": "2",
+          "name": "Ông John Smith",
+          "image": "/assets/user-2.jpg",
+          "title": "Giám đốc Phát triển",
+          "rating": 5,
+          "company": "International Defence Corp.",
+          "content": "Chúng tôi đánh giá cao sự chuyên nghiệp và khả năng tuân thủ pháp luật của VietDefence Systems trong quá trình hợp tác chuyển giao công nghệ."
+        },
+        {
+          "id": "3",
+          "name": "Thiếu tá Trần Thị B",
+          "image": "/assets/user-3.jpg",
+          "title": "Cục An ninh Nội địa",
+          "rating": 5,
+          "company": "Bộ Công an",
+          "content": "Các thiết bị giám sát chiến lược do công ty cung cấp đáp ứng hoàn hảo các yêu cầu nghiệp vụ đặc thù của chúng tôi."
+        }
+      ],
+      "partners": [
+        "Bộ Quốc phòng",
+        "Bộ Công an",
+        "Tổng cục Hải quan",
+        "Quân chủng Phòng không - Không quân",
+        "Bộ Tư lệnh Bộ đội Biên phòng",
+        "Các Doanh nghiệp Quốc phòng Nhà nước"
+      ],
+      "stats": [
+        {
+          "label": "Dự án Đã triển khai",
+          "number": "100+",
+          "sublabel": "Chính phủ"
+        },
+        {
+          "label": "Độ tin cậy Hệ thống",
+          "number": "98%",
+          "sublabel": "Được kiểm định"
+        },
+        {
+          "label": "Đối tác Quốc tế",
+          "number": "20+",
+          "sublabel": "Được cấp phép"
+        },
+        {
+          "label": "Năm Kinh nghiệm",
+          "number": "15+",
+          "sublabel": "Trong ngành"
+        }
+      ]
+    },
+    "leadMagnet": {
+      "title": "Tải Về: Hướng Dẫn Triển Khai Công Nghệ An Ninh Chiến Lược",
+      "formTitle": "Tải Về Hướng Dẫn Miễn Phí",
+      "textColor": "#1A202C",
+      "buttonText": "Tải Về Ngay",
+      "guideTitle": "Hướng Dẫn Toàn Diện về Trang bị Quốc phòng 2025",
+      "description": "Nhận tài liệu chuyên sâu về các tiêu chuẩn và quy trình triển khai thiết bị quốc phòng mới nhất.",
+      "guideFeatures": [
+        {
+          "icon": "FileText",
+          "title": "Phân tích Công nghệ",
+          "description": "Đánh giá các hệ thống phòng thủ tiên tiến."
+        },
+        {
+          "icon": "TrendingUp",
+          "title": "Xu hướng Thị trường",
+          "description": "Dự báo về nhu cầu trang bị trong 5 năm tới."
+        },
+        {
+          "icon": "Shield",
+          "title": "Khung pháp lý",
+          "description": "Hướng dẫn chi tiết về tuân thủ quy định xuất nhập khẩu."
+        },
+        {
+          "icon": "CheckCircle",
+          "title": "Quy trình Hợp tác",
+          "description": "Các bước rõ ràng để trở thành đối tác của chúng tôi."
+        }
+      ],
+      "guideSubtitle": "Cập nhật những thay đổi mới nhất trong công nghệ và quy định",
+      "backgroundColor": "#F8F9FA",
+      "formDescription": "Vui lòng cung cấp thông tin để nhận tài liệu ngay lập tức.",
+      "trustIndicators": [
+        {
+          "label": "Đơn vị đã tải",
+          "number": "1,200+"
+        },
+        {
+          "label": "Tỷ lệ hài lòng",
+          "number": "95%"
+        },
+        {
+          "label": "Năm kinh nghiệm",
+          "number": "20+"
+        }
+      ]
+    },
+    "whyChooseUs": {
+      "cta": {
+        "title": "Thảo luận về nhu cầu của bạn",
+        "buttonText": "Liên hệ ngay",
+        "description": "Liên hệ với đội ngũ chuyên gia của chúng tôi để nhận được giải pháp tùy chỉnh phù hợp nhất."
+      },
+      "title": "Tại Sao Chọn VietDefence Systems?",
+      "vision": {
+        "title": "Tầm Nhìn",
+        "description": "Trở thành nhà cung cấp giải pháp công nghệ quốc phòng hàng đầu tại Việt Nam và là đối tác tin cậy trên trường quốc tế."
+      },
+      "mission": {
+        "title": "Sứ Mệnh",
+        "description": "Cung cấp các giải pháp công nghệ quốc phòng và an ninh hiện đại, góp phần nâng cao năng lực phòng thủ và bảo vệ an ninh quốc gia."
+      },
+      "subtitle": "Chúng tôi là đối tác đáng tin cậy trong việc cung cấp các giải pháp quốc phòng và an ninh chiến lược.",
+      "strengths": [
+        {
+          "icon": "Award",
+          "title": "Chất lượng Đảm bảo",
+          "description": "Tuân thủ các tiêu chuẩn quốc phòng nghiêm ngặt nhất."
+        },
+        {
+          "icon": "Shield",
+          "title": "Công nghệ Đột phá",
+          "description": "Đầu tư mạnh vào R&D cho các giải pháp tương lai."
+        },
+        {
+          "icon": "Globe",
+          "title": "Tuân thủ Pháp lý",
+          "description": "Hoạt động minh bạch theo quy định pháp luật Việt Nam và quốc tế."
+        },
+        {
+          "icon": "Clock",
+          "title": "Hỗ trợ Toàn diện",
+          "description": "Đảm bảo sẵn sàng hoạt động và bảo trì liên tục."
+        },
+        {
+          "icon": "TrendingUp",
+          "title": "Kinh nghiệm Chuyên sâu",
+          "description": "Đội ngũ chuyên gia giàu kinh nghiệm trong ngành quốc phòng."
+        },
+        {
+          "icon": "Users",
+          "title": "Khách hàng Chính phủ",
+          "description": "Kinh nghiệm làm việc trực tiếp với các Bộ, Ban, Ngành."
+        }
+      ],
+      "textColor": "#1A202C",
+      "backgroundColor": "#FFFFFF"
+    },
+    "productPages": {
+      "1": {
+        "cta": {
+          "title": "Bảo vệ An toàn với Trang bị Đã được Chứng minh",
+          "benefits": [
+            "Đảm bảo nguồn cung ổn định, chất lượng cao.",
+            "Tối ưu hóa ngân sách trang bị của bạn.",
+            "Xây dựng quan hệ đối tác xuất khẩu đáng tin cậy."
+          ],
+          "subtitle": "Liên hệ ngay hôm nay để thảo luận về các yêu cầu chiến lược và nhận hồ sơ năng lực đầy đủ của chúng tôi.",
+          "buttonText": "Yêu cầu Báo giá & Tư vấn"
+        },
+        "oem": {
+          "title": "Năng lực OEM/ODM Chuyên biệt cho Quốc phòng",
+          "capabilities": [
+            {
+              "icon": "DraftingCompass",
+              "title": "Thiết kế theo Yêu cầu (Design-to-Spec)",
+              "description": "Phát triển các sản phẩm hoàn toàn mới dựa trên yêu cầu hoạt động và thông số kỹ thuật độc quyền của khách hàng."
+            },
+            {
+              "icon": "Factory",
+              "title": "Sản xuất theo Hợp đồng (Contract Manufacturing)",
+              "description": "Sản xuất quy mô lớn các thiết bị đã được phê duyệt, tuân thủ nghiêm ngặt các tiêu chuẩn sở hữu trí tuệ."
+            },
+            {
+              "icon": "Package",
+              "title": "Đóng gói và Đánh dấu Tùy chỉnh",
+              "description": "Bao bì bảo vệ cấp quân sự với nhãn hiệu, mã số (NSN) và hướng dẫn sử dụng theo yêu cầu quốc gia."
+            },
+            {
+              "icon": "Wrench",
+              "title": "Tích hợp Phần cứng/Phần mềm",
+              "description": "Khả năng nhúng các hệ thống điện tử và phần mềm bảo mật vào các cấu trúc vật lý."
+            }
+          ]
+        },
+        "rfq": {
+          "title": "Yêu cầu Báo giá Nhanh chóng (RFQ)",
+          "benefits": [
+            "Phản hồi báo giá trong vòng 24 giờ làm việc.",
+            "Được tư vấn trực tiếp bởi Chuyên gia Phát triển Kinh doanh Khu vực.",
+            "Nhận các điều khoản thanh toán và vận chuyển tối ưu hóa cho khối lượng lớn.",
+            "Đảm bảo mức giá cạnh tranh nhất cho các hợp đồng dài hạn."
+          ]
+        },
+        "hero": {
+          "usps": [
+            "Chứng nhận Chất lượng ISO 9001:2015",
+            "Khả năng Tùy chỉnh OEM/ODM Cao",
+            "Kinh nghiệm Xuất khẩu Toàn cầu (EU, NA, APAC)",
+            "MOQ Linh hoạt cho Đơn hàng Chiến lược"
+          ],
+          "title": "Trang bị Quân sự Tiêu chuẩn: Thiết bị Quốc phòng Phi Sát thương & Phòng thủ | [Tên Nhà Sản Xuất]",
+          "subtitle": "Giải pháp Trang bị Quốc phòng Toàn diện, Đảm bảo Chất lượng Xuất khẩu Quốc tế."
+        },
+        "price": "Liên hệ",
+        "specs": {
+          "title": "Thông số Kỹ thuật Tiêu chuẩn",
+          "specifications": [
+            {
+              "label": "Tiêu chuẩn Áp dụng",
+              "value": "MIL-STD-810G, STANAG 4005"
+            },
+            {
+              "label": "Vật liệu Chính",
+              "value": "Hợp kim Nhôm 7075 / Polymer Gia cố Sợi Carbon"
+            },
+            {
+              "label": "Phạm vi Nhiệt độ Hoạt động",
+              "value": "-40°C đến +60°C"
+            },
+            {
+              "label": "Kháng nước/Bụi",
+              "value": "IP67/IP68"
+            },
+            {
+              "label": "Màu sắc Tiêu chuẩn",
+              "value": "Đen Mờ (Matte Black), Xanh Ô liu (Olive Drab)"
+            },
+            {
+              "label": "Trọng lượng (Trung bình)",
+              "value": "Tùy thuộc mô hình (Liên hệ để biết chi tiết)"
+            },
+            {
+              "label": "Tuổi thọ Thiết kế",
+              "value": "Tối thiểu 10 năm trong điều kiện hoạt động tiêu chuẩn"
+            },
+            {
+              "label": "Tương thích Đạn đạo",
+              "value": "Chống va đập cấp độ III (Đối với các thành phần bảo vệ)"
+            }
+          ],
+          "customizationOptions": [
+            "Tùy chỉnh màu sắc (RAL/NSN Codes)",
+            "Tích hợp Module GPS/Telemetry",
+            "Thay đổi giao diện người dùng (UI/UX) cho thiết bị điện tử",
+            "Điều chỉnh độ bền vật liệu theo yêu cầu môi trường cụ thể"
+          ]
+        },
+        "enabled": true,
+        "category": "Trang bị",
+        "features": [
+          {
+            "icon": "HardHat",
+            "title": "Độ bền Cấp Quân sự",
+            "description": "Cấu tạo từ vật liệu hợp kim cao cấp, chống ăn mòn và chịu được điều kiện thời tiết khắc nghiệt (MIL-STD-810G compliant)."
+          },
+          {
+            "icon": "Zap",
+            "title": "Thiết kế Phi Sát thương Tối ưu",
+            "description": "Cung cấp khả năng kiểm soát và răn đe hiệu quả mà không gây thương tích nghiêm trọng, lý tưởng cho các hoạt động gìn giữ hòa bình."
+          },
+          {
+            "icon": "Settings2",
+            "title": "Khả năng Tương thích Hệ thống",
+            "description": "Thiết kế mô-đun cho phép tích hợp liền mạch với các nền tảng và hệ thống trang bị hiện có của khách hàng."
+          },
+          {
+            "icon": "Gauge",
+            "title": "Kiểm định Chất lượng Nghiêm ngặt",
+            "description": "Mỗi đơn vị đều trải qua quy trình kiểm tra tải trọng, độ bền và hiệu suất theo giao thức nội bộ 100%."
+          },
+          {
+            "icon": "Battery",
+            "title": "Thời gian Hoạt động Kéo dài",
+            "description": "Tối ưu hóa năng lượng cho các thiết bị điện tử, đảm bảo hoạt động liên tục trong các nhiệm vụ kéo dài."
+          },
+          {
+            "icon": "Lock",
+            "title": "An ninh và Bảo mật Dữ liệu",
+            "description": "Đối với các thiết bị điện tử đi kèm, chúng tôi đảm bảo mã hóa và bảo mật dữ liệu theo tiêu chuẩn quốc tế."
+          }
+        ],
+        "overview": {
+          "highlights": [
+            {
+              "icon": "ShieldCheck",
+              "label": "Ứng dụng Chính",
+              "value": "Tuần tra, Kiểm soát Đám đông, An ninh Biên giới"
+            },
+            {
+              "icon": "Building2",
+              "label": "Ngành Mục tiêu",
+              "value": "Quân đội, Lực lượng Biên phòng, Cơ quan Thực thi Pháp luật"
+            },
+            {
+              "icon": "Globe",
+              "label": "Thị trường Xuất khẩu",
+              "value": "Châu Âu, Bắc Mỹ, Trung Đông, Đông Nam Á"
+            },
+            {
+              "icon": "Scale",
+              "label": "MOQ",
+              "value": "Thỏa thuận theo Dự án"
+            }
+          ],
+          "description": "Chúng tôi cung cấp danh mục toàn diện các thiết bị quốc phòng phi sát thương và hệ thống phòng thủ, được thiết kế và kiểm định theo các tiêu chuẩn quân sự nghiêm ngặt nhất. Đảm bảo hiệu suất tối ưu và độ tin cậy vượt trội trong mọi môi trường hoạt động."
+        },
+        "packaging": {
+          "incoterms": [
+            "FOB (Free On Board)",
+            "CIF (Cost, Insurance, and Freight)",
+            "DAP (Delivered At Place)",
+            "EXW (Ex Works)"
+          ],
+          "packagingSpecs": [
+            {
+              "label": "Loại Bao bì Chính",
+              "value": "Thùng gỗ chịu lực (ISPM 15 Compliant)"
+            },
+            {
+              "label": "Lớp Bảo vệ Nội bộ",
+              "value": "Bọt xốp định hình (Custom Molded Foam) hoặc Chống tĩnh điện (ESD Bags)"
+            },
+            {
+              "label": "Trọng lượng Tịnh/Tổng (Ước tính)",
+              "value": "Thay đổi theo SKU"
+            },
+            {
+              "label": "Đánh dấu Vận chuyển",
+              "value": "Nhãn hàng nguy hiểm (nếu có) và Mã vạch GS1"
+            },
+            {
+              "label": "Khả năng Chống ẩm",
+              "value": "Gói hút ẩm và Lớp lót Chống thấm khí"
+            }
+          ],
+          "shippingMethods": [
+            {
+              "icon": "Ship",
+              "methodName": "Vận tải Đường biển (FCL/LCL)",
+              "description": "Giải pháp tiết kiệm chi phí cho các đơn hàng khối lượng lớn đến các cảng quốc tế."
+            },
+            {
+              "icon": "Plane",
+              "methodName": "Vận tải Hàng không",
+              "description": "Lựa chọn nhanh chóng cho các đơn hàng khẩn cấp hoặc có giá trị cao."
+            },
+            {
+              "icon": "Truck",
+              "methodName": "Vận tải Đường bộ (Nội địa/Xuyên biên giới)",
+              "description": "Phục vụ các khu vực lân cận hoặc các dự án yêu cầu giao hàng tận nơi (Door-to-Door)."
+            }
+          ]
+        },
+        "whyChoose": {
+          "metrics": [
+            {
+              "icon": "Briefcase",
+              "label": "Năm Kinh nghiệm trong Ngành Quốc phòng",
+              "value": "20+"
+            },
+            {
+              "icon": "Star",
+              "label": "Tỷ lệ Giao hàng Đúng hạn (OTD)",
+              "value": "98%"
+            },
+            {
+              "icon": "Users",
+              "label": "Quốc gia Đối tác Chiến lược",
+              "value": "35+"
+            },
+            {
+              "icon": "CheckCircle",
+              "label": "Lỗi An toàn Sản phẩm Quan trọng",
+              "value": "Zero"
+            }
+          ],
+          "strengths": [
+            "Chuỗi cung ứng được kiểm soát chặt chẽ, đảm bảo tính toàn vẹn của sản phẩm.",
+            "Đội ngũ kỹ sư chuyên trách hỗ trợ kỹ thuật 24/7 cho các dự án phức tạp.",
+            "Cam kết bảo mật thông tin tuyệt đối cho các đơn đặt hàng nhạy cảm.",
+            "Linh hoạt trong việc điều chỉnh quy trình để đáp ứng các yêu cầu pháp lý nhập khẩu cụ thể của khách hàng."
+          ]
+        },
+        "leadMagnet": {
+          "title": "Tải Xuống Tài liệu Kỹ thuật Chuyên sâu",
+          "benefits": [
+            "Xem chi tiết các biểu đồ hiệu suất và khả năng chịu tải.",
+            "Nhận bảng so sánh các cấu hình sản phẩm tiêu chuẩn và tùy chọn.",
+            "Tìm hiểu quy trình kiểm định chất lượng chi tiết của chúng tôi.",
+            "Yêu cầu báo giá sơ bộ dựa trên thông số kỹ thuật đã chọn."
+          ]
+        },
+        "productName": "Trang bị Quân sự Tiêu chuẩn",
+        "applications": {
+          "title": "Ứng dụng & Trường hợp Sử dụng Chính",
+          "applications": [
+            {
+              "icon": "Target",
+              "industry": "Lực lượng Đặc nhiệm",
+              "description": "Cung cấp các thiết bị chiến thuật nhẹ, bền bỉ cho các nhiệm vụ bí mật và phản ứng nhanh."
+            },
+            {
+              "icon": "Landmark",
+              "industry": "An ninh Biên giới & Kiểm soát Đám đông",
+              "description": "Các công cụ phi sát thương để kiểm soát tình hình, bảo vệ tài sản và nhân sự mà không leo thang bạo lực."
+            },
+            {
+              "icon": "PackageCheck",
+              "industry": "Hỗ trợ Hậu cần Quân sự",
+              "description": "Thiết bị bảo vệ và vận chuyển chuyên dụng cho vật tư, đạn dược và thiết bị nhạy cảm."
+            },
+            {
+              "icon": "Swords",
+              "industry": "Huấn luyện và Mô phỏng",
+              "description": "Các trang bị mô phỏng thực tế, đảm bảo tính chân thực trong các bài tập đào tạo chiến thuật."
+            }
+          ]
+        },
+        "certifications": {
+          "qcProcess": [
+            {
+              "step": 1,
+              "title": "Kiểm tra Nguyên vật liệu Đầu vào",
+              "description": "Phân tích thành phần hóa học và cơ học của tất cả các lô vật liệu thô trước khi đưa vào sản xuất."
+            },
+            {
+              "step": 2,
+              "title": "Kiểm soát Quy trình Sản xuất (In-Process)",
+              "description": "Giám sát tự động các thông số nhiệt độ, áp suất và dung sai trong quá trình gia công và lắp ráp."
+            },
+            {
+              "step": 3,
+              "title": "Kiểm tra Chức năng Từng Bộ phận",
+              "description": "Đánh giá hiệu suất hoạt động của từng module chức năng theo thông số kỹ thuật thiết kế."
+            },
+            {
+              "step": 4,
+              "title": "Kiểm tra Chấp nhận Cuối cùng (FAT)",
+              "description": "Thử nghiệm môi trường và tải trọng toàn diện trước khi đóng gói và cấp chứng nhận xuất xưởng."
+            }
+          ],
+          "certifications": [
+            {
+              "name": "ISO 9001:2015",
+              "description": "Hệ thống Quản lý Chất lượng Toàn cầu, đảm bảo tính nhất quán trong quy trình sản xuất."
+            },
+            {
+              "name": "AQAP 2110 (NATO)",
+              "description": "Tiêu chuẩn Đảm bảo Chất lượng cho các yêu cầu thiết kế, phát triển và sản xuất quốc phòng."
+            },
+            {
+              "name": "CE Marking (EU)",
+              "description": "Tuân thủ các yêu cầu về sức khỏe, an toàn và bảo vệ môi trường của Châu Âu."
+            },
+            {
+              "name": "ITAR Compliance (Nếu áp dụng)",
+              "description": "Quản lý xuất khẩu nghiêm ngặt đối với các mặt hàng quốc phòng và quân sự."
+            }
+          ]
+        },
+        "selectedProductId": "1"
+      },
+      "2": {
+        "cta": {
+          "title": "Tối ưu hóa Sự sẵn sàng Chiến đấu của Đơn vị Bạn Ngay hôm nay",
+          "benefits": [
+            "Đảm bảo tính chính xác và chân thực cao nhất.",
+            "Giảm chi phí vận hành huấn luyện thực địa.",
+            "Tăng tốc độ học tập và khả năng phản ứng của nhân sự."
+          ],
+          "subtitle": "Liên hệ với đội ngũ chuyên gia xuất khẩu của chúng tôi để thảo luận về giải pháp mô phỏng phù hợp nhất cho nhu cầu quốc phòng của bạn.",
+          "buttonText": "Yêu cầu Báo giá & Tư vấn Chuyên sâu"
+        },
+        "oem": {
+          "title": "Năng lực OEM/ODM Chuyên biệt",
+          "capabilities": [
+            {
+              "icon": "Palette",
+              "title": "Thiết kế Kịch bản Độc quyền",
+              "description": "Phát triển các kịch bản huấn luyện hoàn toàn mới dựa trên học thuyết tác chiến cụ thể của quốc gia bạn."
+            },
+            {
+              "icon": "Factory",
+              "title": "Tích hợp Phần cứng Tùy chỉnh",
+              "description": "Sản xuất các buồng lái (cockpit) hoặc bệ đỡ mô phỏng theo đúng cấu hình phương tiện thực tế."
+            },
+            {
+              "icon": "Code",
+              "title": "Phát triển API Mở",
+              "description": "Cung cấp giao diện lập trình ứng dụng để tích hợp các hệ thống quản lý học viên hiện có của bạn."
+            },
+            {
+              "icon": "Key",
+              "title": "Bảo mật Sở hữu Trí tuệ",
+              "description": "Cam kết bảo vệ nghiêm ngặt IP của bạn thông qua các thỏa thuận NDA cấp cao."
+            }
+          ]
+        },
+        "rfq": {
+          "title": "Yêu cầu Báo giá Nhanh chóng (RFQ)",
+          "benefits": [
+            "Nhận báo giá tùy chỉnh trong vòng 48 giờ làm việc.",
+            "Đánh giá chi phí vòng đời (TCO) chi tiết.",
+            "Thảo luận trực tiếp về yêu cầu tích hợp hệ thống hiện tại của bạn.",
+            "Tiếp cận các chương trình tài trợ hoặc hợp đồng mua bán dài hạn."
+          ]
+        },
+        "hero": {
+          "usps": [
+            "ISO 9001:2015 Certified Solutions",
+            "Tùy biến theo yêu cầu tác chiến cụ thể",
+            "Kinh nghiệm xuất khẩu toàn cầu (EU, APAC)",
+            "Hỗ trợ kỹ thuật 24/7 cho các dự án quốc phòng"
+          ],
+          "title": "Hệ thống Huấn luyện & Mô phỏng Tác chiến Tiên tiến | [Tên Nhà Sản Xuất & Xuất Khẩu]",
+          "subtitle": "Nâng cao năng lực chiến đấu của lực lượng vũ trang thông qua các giải pháp mô phỏng thực tế ảo và thực tại tăng cường."
+        },
+        "price": "Liên hệ",
+        "specs": {
+          "title": "Thông số Kỹ thuật Hệ thống",
+          "specifications": [
+            {
+              "label": "Nền tảng Mô phỏng",
+              "value": "PC/Workstation Tương thích DirectX 12, Standalone Unit"
+            },
+            {
+              "label": "Độ trễ Hệ thống (Latency)",
+              "value": "< 20ms (Thời gian thực)"
+            },
+            {
+              "label": "Yêu cầu Phần cứng Tối thiểu",
+              "value": "Intel i7 Gen 10+, 32GB RAM, NVIDIA RTX 3080 trở lên"
+            },
+            {
+              "label": "Giao thức Mạng",
+              "value": "TCP/IP, HLA (High Level Architecture) Compliant"
+            },
+            {
+              "label": "Tỷ lệ Khung hình (FPS)",
+              "value": "Ổn định 90 FPS (VR Mode), 120+ FPS (Standard)"
+            },
+            {
+              "label": "Hỗ trợ Thiết bị Ngoại vi",
+              "value": "HOTAS, Bảng điều khiển mô phỏng, Thiết bị theo dõi chuyển động"
+            },
+            {
+              "label": "Thời gian Triển khai",
+              "value": "4-8 Tuần (Tùy thuộc mức độ tùy biến)"
+            },
+            {
+              "label": "Nguồn Điện",
+              "value": "AC 100-240V, 50/60Hz"
+            }
+          ],
+          "customizationOptions": [
+            "Tích hợp mô hình địa hình độc quyền (GEOINT)",
+            "Phát triển mô hình vũ khí/phương tiện chuyên dụng",
+            "Bản địa hóa giao diện người dùng (Ngôn ngữ & Thuật ngữ)",
+            "Mô-đun Huấn luyện Tác chiến Điện tử (EW)"
+          ]
+        },
+        "enabled": true,
+        "category": "Huấn luyện",
+        "features": [
+          {
+            "icon": "Zap",
+            "title": "Mô phỏng Đa miền (Lục, Hải, Không)",
+            "description": "Khả năng tái tạo môi trường tác chiến phức tạp trên mọi nền tảng, đảm bảo tính nhất quán trong kịch bản huấn luyện."
+          },
+          {
+            "icon": "TrendingUp",
+            "title": "Đồ họa Độ phân giải Cao (4K/VR Ready)",
+            "description": "Cung cấp hình ảnh trực quan siêu thực, tăng cường sự đắm chìm và khả năng nhận diện mục tiêu trong mọi điều kiện ánh sáng."
+          },
+          {
+            "icon": "Cpu",
+            "title": "Phân tích Hiệu suất Tích hợp",
+            "description": "Thu thập dữ liệu chi tiết về hành vi người dùng, cho phép đánh giá khách quan và xác định các lĩnh vực cần cải thiện ngay lập tức."
+          },
+          {
+            "icon": "ShieldCheck",
+            "title": "Tương thích Vũ khí Tiêu chuẩn NATO",
+            "description": "Đảm bảo tính chính xác về vật lý đạn đạo và phản ứng của hệ thống vũ khí hiện đại được sử dụng trong biên chế."
+          },
+          {
+            "icon": "Network",
+            "title": "Kết nối Mạng Lưới Huấn luyện (WNT)",
+            "description": "Cho phép huấn luyện đa địa điểm, kết nối các đơn vị từ xa vào cùng một môi trường mô phỏng thời gian thực."
+          },
+          {
+            "icon": "Sliders",
+            "title": "Kịch bản Tùy biến Linh hoạt",
+            "description": "Công cụ lập trình trực quan cho phép người hướng dẫn thiết lập các kịch bản huấn luyện phức tạp, thay đổi tham số động."
+          },
+          {
+            "icon": "HardHat",
+            "title": "An toàn và Bảo mật Dữ liệu Cao",
+            "description": "Thiết kế tuân thủ các tiêu chuẩn bảo mật thông tin quân sự, bảo vệ dữ liệu huấn luyện nhạy cảm."
+          }
+        ],
+        "overview": {
+          "highlights": [
+            {
+              "icon": "Target",
+              "label": "Ứng dụng Chính",
+              "value": "Huấn luyện Chiến thuật & Kỹ năng Cá nhân"
+            },
+            {
+              "icon": "Users",
+              "label": "Ngành Mục tiêu",
+              "value": "Quân đội, Lực lượng Đặc nhiệm, Cơ quan An ninh Quốc gia"
+            },
+            {
+              "icon": "Globe",
+              "label": "Thị trường Xuất khẩu",
+              "value": "Bắc Mỹ, Châu Âu, Đông Nam Á"
+            },
+            {
+              "icon": "ShoppingBag",
+              "label": "MOQ",
+              "value": "Liên hệ để biết chi tiết dự án"
+            }
+          ],
+          "description": "Giải pháp mô phỏng tác chiến thế hệ mới, được thiết kế để cung cấp môi trường huấn luyện chân thực, an toàn và có thể đo lường được. Chúng tôi tối ưu hóa khả năng ra quyết định và phối hợp đội ngũ cho các đơn vị quân sự và an ninh."
+        },
+        "packaging": {
+          "incoterms": [
+            "FOB (Free On Board)",
+            "CIF (Cost, Insurance, and Freight)",
+            "DDP (Delivered Duty Paid)",
+            "EXW (Ex Works)"
+          ],
+          "packagingSpecs": [
+            {
+              "label": "Loại Thùng",
+              "value": "Thùng gỗ xuất khẩu chịu lực (ISPM 15 Compliant)"
+            },
+            {
+              "label": "Lớp Bảo vệ Nội thất",
+              "value": "Bọt xốp chống tĩnh điện và giảm chấn PE"
+            },
+            {
+              "label": "Kích thước Trung bình (Pallet)",
+              "value": "120cm x 100cm x 150cm"
+            },
+            {
+              "label": "Trọng lượng Khối lượng (Gross Weight)",
+              "value": "450 - 700 kg (Tùy cấu hình)"
+            },
+            {
+              "label": "Đánh dấu",
+              "value": "Nhãn hàng hóa nguy hiểm (nếu có) và Hướng dẫn xếp dỡ rõ ràng"
+            }
+          ],
+          "shippingMethods": [
+            {
+              "icon": "Ship",
+              "methodName": "Đường biển (FCL/LCL)",
+              "description": "Giải pháp kinh tế cho lô hàng lớn, đảm bảo an toàn tuyệt đối cho thiết bị nhạy cảm."
+            },
+            {
+              "icon": "Plane",
+              "methodName": "Đường hàng không (Air Freight)",
+              "description": "Tối ưu hóa thời gian giao hàng cho các dự án khẩn cấp hoặc yêu cầu triển khai nhanh."
+            },
+            {
+              "icon": "Truck",
+              "methodName": "Đường bộ Nội địa/Khu vực",
+              "description": "Vận chuyển an toàn đến các cảng hoặc cơ sở huấn luyện lân cận."
+            }
+          ]
+        },
+        "whyChoose": {
+          "metrics": [
+            {
+              "icon": "Briefcase",
+              "label": "Năm Kinh nghiệm trong Ngành Mô phỏng",
+              "value": "18+"
+            },
+            {
+              "icon": "CheckCircle",
+              "label": "Tỷ lệ Hoàn thành Dự án Đúng hạn",
+              "value": "98%"
+            },
+            {
+              "icon": "Award",
+              "label": "Giải thưởng Công nghệ Quốc gia",
+              "value": "40+"
+            },
+            {
+              "icon": "Users",
+              "label": "Quốc gia Triển khai Hệ thống",
+              "value": "25+"
+            }
+          ],
+          "strengths": [
+            "Chuyên môn sâu về vật lý học đạn đạo và mô hình hóa môi trường.",
+            "Đội ngũ kỹ sư phần mềm có chứng chỉ bảo mật cao cấp.",
+            "Khả năng mở rộng hệ thống linh hoạt theo ngân sách và yêu cầu.",
+            "Hỗ trợ kỹ thuật từ xa và tại chỗ toàn cầu."
+          ]
+        },
+        "leadMagnet": {
+          "title": "Tải xuống Danh mục Sản phẩm & Bảng Dữ liệu Kỹ thuật Chi tiết",
+          "benefits": [
+            "Xem chi tiết cấu hình phần cứng và phần mềm.",
+            "Phân tích các kịch bản mô phỏng mẫu.",
+            "Tiếp cận thông tin về lộ trình phát triển sản phẩm.",
+            "Yêu cầu tư vấn kỹ thuật ban đầu từ chuyên gia của chúng tôi."
+          ]
+        },
+        "productName": "Hệ thống Huấn luyện & Mô phỏng",
+        "showPreview": true,
+        "applications": {
+          "title": "Ứng dụng & Trường hợp Sử dụng",
+          "applications": [
+            {
+              "icon": "Swords",
+              "industry": "Huấn luyện Bộ binh Cơ giới",
+              "description": "Mô phỏng tác chiến đội hình tiểu đội và trung đội trong môi trường đô thị, rừng núi, và sa mạc."
+            },
+            {
+              "icon": "Compass",
+              "industry": "Huấn luyện Lực lượng Đặc nhiệm (SOF)",
+              "description": "Thực hành các nhiệm vụ giải cứu con tin, xâm nhập và trinh sát bí mật với các biến số bất ngờ cao."
+            },
+            {
+              "icon": "Monitor",
+              "industry": "Chỉ huy & Kiểm soát (C2)",
+              "description": "Đào tạo sĩ quan cấp cao trong việc ra quyết định chiến lược dưới áp lực thời gian và thông tin hạn chế."
+            },
+            {
+              "icon": "Building",
+              "industry": "Phòng vệ Cơ sở Hạ tầng Quan trọng",
+              "description": "Mô phỏng các kịch bản bảo vệ mục tiêu cố định trước các cuộc tấn công phối hợp."
+            }
+          ]
+        },
+        "certifications": {
+          "qcProcess": [
+            {
+              "step": 1,
+              "title": "Kiểm tra Yêu cầu Kỹ thuật (SRS)",
+              "description": "Xác minh chi tiết từng thông số kỹ thuật với khách hàng trước khi sản xuất."
+            },
+            {
+              "step": 2,
+              "title": "Kiểm tra Đơn vị Phần cứng",
+              "description": "Thử nghiệm tải trọng và độ bền của tất cả các thành phần vật lý và thiết bị ngoại vi."
+            },
+            {
+              "step": 3,
+              "title": "Kiểm tra Tích hợp Phần mềm (SIT)",
+              "description": "Đảm bảo tất cả các mô-đun mô phỏng hoạt động liền mạch và chính xác."
+            },
+            {
+              "step": 4,
+              "title": "Kiểm tra Chấp nhận của Người dùng (UAT)",
+              "description": "Huấn luyện ban đầu với khách hàng và xác nhận kịch bản thực tế tại cơ sở của chúng tôi."
+            }
+          ],
+          "certifications": [
+            {
+              "name": "ISO 9001:2015",
+              "description": "Đảm bảo quy trình quản lý chất lượng toàn diện từ thiết kế đến triển khai hệ thống."
+            },
+            {
+              "name": "MIL-STD-810G (Tương thích)",
+              "description": "Kiểm tra độ bền và khả năng hoạt động trong điều kiện môi trường khắc nghiệt."
+            },
+            {
+              "name": "CE Marking",
+              "description": "Tuân thủ các tiêu chuẩn sức khỏe, an toàn và bảo vệ môi trường của Châu Âu."
+            }
+          ]
+        },
+        "selectedProductId": "2"
+      },
+      "3": {
+        "cta": {
+          "title": "Bảo vệ Lợi thế Thông tin Chiến lược của Bạn Ngay Hôm Nay",
+          "benefits": [
+            "Đạt được nhận thức tình huống vượt trội.",
+            "Tối ưu hóa hiệu quả hoạt động và giảm thiểu rủi ro.",
+            "Đảm bảo khả năng tương tác với các đồng minh quốc tế."
+          ],
+          "subtitle": "Liên hệ với đội ngũ chuyên gia xuất khẩu của chúng tôi để thảo luận về các yêu cầu triển khai C2/C4ISR độc đáo của bạn.",
+          "buttonText": "Yêu cầu Báo giá & Tư vấn Kỹ thuật"
+        },
+        "oem": {
+          "title": "Năng lực OEM/ODM: Xây dựng Giải pháp Theo Yêu cầu Cụ thể",
+          "capabilities": [
+            {
+              "icon": "Wrench",
+              "title": "Phát triển Phần mềm Tùy chỉnh",
+              "description": "Đội ngũ kỹ sư phần mềm của chúng tôi có thể phát triển các mô-đun C2 chuyên biệt để đáp ứng các giao thức truyền thông độc quyền của bạn."
+            },
+            {
+              "icon": "HardHat",
+              "title": "Tích hợp Phần cứng Chuyên dụng",
+              "description": "Thiết kế và sản xuất các vỏ bọc (enclosures) và giao diện phần cứng đáp ứng các tiêu chuẩn môi trường khắc nghiệt (ví dụ: chống sốc, EMI/EMC)."
+            },
+            {
+              "icon": "PackageOpen",
+              "title": "Đóng gói và Vận chuyển An toàn",
+              "description": "Quản lý toàn bộ quy trình đóng gói theo tiêu chuẩn vận chuyển quân sự, đảm bảo an toàn tuyệt đối cho thiết bị nhạy cảm."
+            },
+            {
+              "icon": "Layers",
+              "title": "Tái thương hiệu và Nhãn hiệu Riêng",
+              "description": "Chúng tôi cung cấp dịch vụ OEM hoàn chỉnh, cho phép bạn tích hợp hệ thống này dưới thương hiệu của chính mình."
+            }
+          ]
+        },
+        "rfq": {
+          "title": "Yêu cầu Báo giá Nhanh chóng (RFQ)",
+          "benefits": [
+            "Nhận báo giá tùy chỉnh trong vòng 48 giờ làm việc.",
+            "Tư vấn miễn phí về kiến trúc tích hợp hệ thống phù hợp nhất với nhu cầu của bạn.",
+            "Thảo luận trực tiếp với các Kỹ sư Giải pháp cấp cao.",
+            "Đảm bảo mức giá xuất khẩu cạnh tranh nhất dựa trên khối lượng."
+          ]
+        },
+        "hero": {
+          "usps": [
+            "Đạt chuẩn ISO 9001:2015 cho quy trình sản xuất và tích hợp hệ thống.",
+            "Hỗ trợ xuất khẩu tới các thị trường yêu cầu khắt khe (EU, APAC, NA).",
+            "Khả năng tùy biến cao, tích hợp liền mạch với cơ sở hạ tầng hiện có.",
+            "Hỗ trợ kỹ thuật 24/7 và đào tạo chuyên sâu cho đội ngũ vận hành."
+          ],
+          "image": "/uploads/1768725510594-pekffgkuurm.jpg",
+          "title": "Hệ thống C2/C4ISR Chiến lược - Giải pháp Chỉ huy & Kiểm soát Tích hợp Toàn diện | [Tên Nhà Sản Xuất]",
+          "subtitle": "Nâng cao năng lực ra quyết định chiến thuật và tình báo với nền tảng C4ISR thế hệ mới, được thiết kế cho các hoạt động quốc phòng và an ninh toàn cầu.",
+          "backgroundImage": "/uploads/1768725627408-zx4c75o2ssc.png"
+        },
+        "price": "Liên hệ",
+        "specs": {
+          "title": "Thông số Kỹ thuật Hệ thống C2/C4ISR",
+          "specifications": [
+            {
+              "label": "Kiến trúc Phần mềm",
+              "value": "Phân tán, Dựa trên Đám mây Lai (Hybrid Cloud Ready)"
+            },
+            {
+              "label": "Thời gian Phản hồi COP",
+              "value": "< 500ms (trong điều kiện mạng tối ưu)"
+            },
+            {
+              "label": "Khả năng Tích hợp Cảm biến",
+              "value": "Hỗ trợ MIL-STD-1553, TCP/IP, và các giao thức độc quyền"
+            },
+            {
+              "label": "Bảo mật Dữ liệu",
+              "value": "AES-256, FIPS 140-2 (Tùy chọn)"
+            },
+            {
+              "label": "Hệ điều hành Hỗ trợ",
+              "value": "Linux (RHEL/Ubuntu), Windows Server"
+            },
+            {
+              "label": "Yêu cầu Phần cứng",
+              "value": "Máy chủ tiêu chuẩn công nghiệp (x86-64), Tùy chỉnh Edge Computing"
+            },
+            {
+              "label": "Khả năng Ghi nhật ký (Logging)",
+              "value": "Ghi lại mọi hành động và quyết định để phục vụ điều tra và kiểm toán"
+            },
+            {
+              "label": "Thời gian Hoạt động (Uptime)",
+              "value": "99.99% (Thiết kế dự phòng N+1)"
+            }
+          ],
+          "customizationOptions": [
+            "Tích hợp các thuật toán AI/ML độc quyền của khách hàng.",
+            "Tùy chỉnh giao diện người dùng và bố cục bảng điều khiển (dashboard).",
+            "Lựa chọn các mô-đun mã hóa và bảo mật cấp độ quốc gia.",
+            "Cấu hình phần cứng chuyên biệt cho môi trường hoạt động khắc nghiệt (MIL-SPEC)."
+          ]
+        },
+        "enabled": true,
+        "category": "Công nghệ",
+        "features": [
+          {
+            "icon": "Radar",
+            "title": "Hợp nhất Dữ liệu Đa miền",
+            "description": "Tích hợp và chuẩn hóa luồng dữ liệu từ các cảm biến, nền tảng và nguồn tình báo khác nhau, mang lại cái nhìn toàn cảnh (Common Operating Picture - COP) chính xác."
+          },
+          {
+            "icon": "BrainCircuit",
+            "title": "Phân tích Tình báo Tự động (AI/ML)",
+            "description": "Sử dụng thuật toán học máy để phát hiện các mối đe dọa tiềm ẩn, phân loại mục tiêu và giảm thiểu khối lượng công việc phân tích thủ công cho các nhà phân tích."
+          },
+          {
+            "icon": "ShieldCheck",
+            "title": "Kiến trúc Bảo mật Cấp độ Cao",
+            "description": "Đảm bảo tính toàn vẹn và bảo mật của dữ liệu thông qua mã hóa mạnh mẽ, kiểm soát truy cập dựa trên vai trò (RBAC) và tuân thủ các tiêu chuẩn bảo mật quân sự quốc tế."
+          },
+          {
+            "icon": "MessageCircle",
+            "title": "Truyền thông An toàn và Độ trễ Thấp",
+            "description": "Cung cấp các kênh liên lạc được bảo vệ, đảm bảo việc truyền lệnh và báo cáo tình huống diễn ra nhanh chóng và đáng tin cậy ngay cả trong môi trường bị gây nhiễu."
+          },
+          {
+            "icon": "Monitor",
+            "title": "Giao diện Người dùng Trực quan (CUI)",
+            "description": "Thiết kế giao diện người dùng theo tiêu chuẩn Công nghiệp Quốc phòng, giảm thiểu lỗi vận hành và tăng tốc độ ra quyết định trong các tình huống áp lực cao."
+          },
+          {
+            "icon": "Server",
+            "title": "Khả năng Mở rộng và Mô-đun Hóa",
+            "description": "Kiến trúc dựa trên microservices cho phép nâng cấp và mở rộng hệ thống dễ dàng, bảo vệ khoản đầu tư dài hạn của khách hàng."
+          }
+        ],
+        "overview": {
+          "highlights": [
+            {
+              "icon": "Gauge",
+              "label": "Ứng dụng Chính",
+              "value": "Phòng thủ Quốc gia, An ninh Biên giới, Tác chiến Điện tử"
+            },
+            {
+              "icon": "Building",
+              "label": "Ngành Mục tiêu",
+              "value": "Quân đội, Cơ quan Chính phủ, Cơ sở hạ tầng Quan trọng"
+            },
+            {
+              "icon": "Globe",
+              "label": "Thị trường Xuất khẩu",
+              "value": "Toàn cầu (Ưu tiên NATO và Đối tác chiến lược)"
+            },
+            {
+              "icon": "ClipboardList",
+              "label": "MOQ",
+              "value": "Thỏa thuận theo Dự án (Liên hệ để biết chi tiết)"
+            }
+          ],
+          "description": "Hệ thống Chỉ huy, Kiểm soát và Tình báo, Giám sát, Trinh sát (C2/C4ISR) của chúng tôi cung cấp khả năng hợp nhất dữ liệu thời gian thực, tăng cường nhận thức tình huống và tối ưu hóa chuỗi chỉ huy cho các nhiệm vụ phức tạp."
+        },
+        "packaging": {
+          "incoterms": [
+            "FOB (Free On Board)",
+            "CIF (Cost, Insurance, and Freight)",
+            "DAP (Delivered at Place)",
+            "EXW (Ex Works)"
+          ],
+          "packagingSpecs": [
+            {
+              "label": "Loại Bao bì",
+              "value": "Thùng gỗ chống sốc tiêu chuẩn vận tải hàng không/biển"
+            },
+            {
+              "label": "Lớp bảo vệ bên trong",
+              "value": "Bọt xốp chống tĩnh điện và hấp thụ sốc mật độ cao"
+            },
+            {
+              "label": "Kích thước (Trung bình)",
+              "value": "120cm x 80cm x 100cm (tùy cấu hình)"
+            },
+            {
+              "label": "Trọng lượng Tịnh (Net Weight)",
+              "value": "150 - 300 kg (tùy cấu hình)"
+            },
+            {
+              "label": "Chất hút ẩm",
+              "value": "Bao Silica Gel cấp công nghiệp (Độ ẩm kiểm soát < 30%)"
+            },
+            {
+              "label": "Đánh dấu",
+              "value": "Nhãn hiệu hàng hóa nguy hiểm và hướng dẫn xếp dỡ rõ ràng"
+            }
+          ],
+          "shippingMethods": [
+            {
+              "icon": "Plane",
+              "methodName": "Vận tải Hàng không (Air Freight)",
+              "description": "Nhanh chóng, lý tưởng cho các triển khai khẩn cấp hoặc các thành phần quan trọng."
+            },
+            {
+              "icon": "Ship",
+              "methodName": "Vận tải Biển (Ocean Freight)",
+              "description": "Giải pháp kinh tế cho các đơn hàng số lượng lớn hoặc các hệ thống lắp đặt cố định."
+            },
+            {
+              "icon": "Truck",
+              "methodName": "Vận tải Đường bộ (Domestic/Regional)",
+              "description": "Đảm bảo vận chuyển an toàn trong khu vực xuất khẩu."
+            }
+          ]
+        },
+        "productId": "C2C4ISR_SYS_001",
+        "whyChoose": {
+          "metrics": [
+            {
+              "icon": "Factory",
+              "label": "Năm Kinh nghiệm Tích hợp Hệ thống",
+              "value": "20+"
+            },
+            {
+              "icon": "Users",
+              "label": "Triển khai C2/ISR trên Toàn cầu",
+              "value": "50+"
+            },
+            {
+              "icon": "Star",
+              "label": "Tỷ lệ Thành công Triển khai Dự án",
+              "value": "98%"
+            },
+            {
+              "icon": "Clock",
+              "label": "Thời gian Phản hồi Hỗ trợ Kỹ thuật Cấp 1",
+              "value": "< 72h"
+            }
+          ],
+          "strengths": [
+            "Chuyên môn sâu về tiêu chuẩn interoperability quân sự quốc tế.",
+            "Chuỗi cung ứng linh kiện được kiểm soát và bảo mật cao.",
+            "Cam kết về bảo mật thông tin và quyền sở hữu trí tuệ của khách hàng.",
+            "Hỗ trợ toàn diện từ thiết kế đến vận hành và bảo trì (O&M)."
+          ],
+          "factoryImage": "/uploads/1768728171295-64dgvruk61.png"
+        },
+        "leadMagnet": {
+          "title": "Tải xuống Danh mục Sản phẩm & Bảng Dữ liệu Kỹ thuật Chi tiết",
+          "benefits": [
+            "Xem chi tiết sơ đồ kiến trúc hệ thống.",
+            "So sánh hiệu suất với các giải pháp C4ISR tiêu chuẩn.",
+            "Nhận thông tin cập nhật về các bản vá lỗi và nâng cấp phần mềm sắp tới.",
+            "Yêu cầu tài liệu bảo mật và tuân thủ chi tiết."
+          ]
+        },
+        "productName": "Công nghệ C2/C4ISR",
+        "showPreview": true,
+        "applications": {
+          "title": "Ứng dụng & Trường hợp Sử dụng Chiến lược",
+          "applications": [
+            {
+              "icon": "Factory",
+              "image": "/uploads/1768727694846-nw2ox2ejfo8.png",
+              "industry": "Chỉ huy Chiến trường (Tactical Command)",
+              "description": "Cung cấp khả năng điều phối lực lượng mặt đất, trên không và trên biển trong các chiến dịch đa quốc gia phức tạp."
+            },
+            {
+              "icon": "Eye",
+              "industry": "Giám sát Không phận & Lãnh hải",
+              "description": "Tự động hóa việc theo dõi mục tiêu, phân loại mối đe dọa và điều phối các phản ứng phòng không/phòng thủ bờ biển."
+            },
+            {
+              "icon": "Lock",
+              "industry": "Phòng thủ Không gian Mạng (Cyber Defense)",
+              "description": "Tích hợp dữ liệu SOC/SIEM để tạo ra nhận thức tình huống về các cuộc tấn công mạng và điều phối các biện pháp đối phó."
+            },
+            {
+              "icon": "HeartPulse",
+              "industry": "Quản lý Thảm họa & Ứng phó Khẩn cấp",
+              "description": "Sử dụng nền tảng để điều phối tài nguyên, giao tiếp giữa các cơ quan dân sự và quân sự trong các tình huống khủng hoảng quy mô lớn."
+            }
+          ]
+        },
+        "certifications": {
+          "qcProcess": [
+            {
+              "step": 1,
+              "title": "Kiểm soát Thiết kế và Yêu cầu",
+              "description": "Đánh giá chi tiết các yêu cầu kỹ thuật của khách hàng và phê duyệt tài liệu thiết kế kiến trúc."
+            },
+            {
+              "step": 2,
+              "title": "Kiểm tra Linh kiện Đầu vào",
+              "description": "Kiểm tra nghiêm ngặt 100% các linh kiện phần cứng quan trọng và phần mềm nguồn trước khi lắp ráp."
+            },
+            {
+              "step": 3,
+              "title": "Thử nghiệm Tích hợp Chức năng (FIT)",
+              "description": "Thực hiện các bài kiểm tra mô phỏng kịch bản chiến đấu thực tế để xác minh hiệu suất của toàn bộ hệ thống."
+            },
+            {
+              "step": 4,
+              "title": "Kiểm tra Chấp nhận của Người dùng (UAT)",
+              "description": "Khách hàng tiến hành kiểm tra tại cơ sở của chúng tôi hoặc tại địa điểm triển khai, với sự giám sát của đội ngũ kỹ thuật của chúng tôi."
+            }
+          ],
+          "certifications": [
+            {
+              "name": "ISO 9001:2015",
+              "description": "Hệ thống Quản lý Chất lượng được phê duyệt cho thiết kế, phát triển và tích hợp hệ thống."
+            },
+            {
+              "name": "ITAR/EAR Compliance (Tùy chọn)",
+              "description": "Tuân thủ các quy định kiểm soát xuất khẩu của Hoa Kỳ cho các sản phẩm công nghệ quốc phòng nhạy cảm."
+            },
+            {
+              "name": "MIL-STD-810H",
+              "description": "Đảm bảo độ bền và khả năng hoạt động trong các điều kiện môi trường khắc nghiệt (nhiệt độ, rung động, độ ẩm)."
+            },
+            {
+              "name": "NATO C3 Standards",
+              "description": "Tương thích với các giao thức và tiêu chuẩn Chỉ huy và Kiểm soát của NATO."
+            }
+          ]
+        },
+        "selectedProductId": "3"
+      }
+    },
+    "activeProductPageId": "2"
+  }
+}
