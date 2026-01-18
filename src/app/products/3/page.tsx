@@ -20,6 +20,6 @@ export async function generateMetadata(): Promise<Metadata> {
   }
 }
 
-export default function 3Page() {
+export default function Product3Page() {
   return <ProductPage productId="3" />
 }

@@ -10,7 +10,9 @@ import WhyChooseUsSection from './vietnam-coffee/WhyChooseUsSection'
 import ProductsServices from './vietnam-coffee/ProductsServices'
 import Testimonials from './vietnam-coffee/Testimonials'
 import Footer from './vietnam-coffee/Footer'
-import ProductPage from './vietnam-coffee-product/ProductPage'
+// For exported projects, ProductPage is in @/components/product/ProductPage
+// We need to handle this dynamically based on whether files exist
+import ProductPage from '../product/ProductPage'
 
 // Import HeroContent type
 interface HeroContent {
