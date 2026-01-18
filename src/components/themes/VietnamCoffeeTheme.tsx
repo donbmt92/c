@@ -385,7 +385,7 @@ export default function VietnamCoffeeTheme({ theme, content, onContentUpdate }: 
   const showProductPage = activeProductPage?.showPreview || false
 
   if (showProductPage && activeProductPageId) {
-    return <ProductPage theme={theme} content={finalContent} />
+    return <ProductPage productId={activeProductPageId} />
   }
 
   return (
