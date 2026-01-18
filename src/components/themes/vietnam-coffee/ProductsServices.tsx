@@ -516,7 +516,7 @@ const ProductsServices = ({ theme, content }: ProductsServicesProps) => {
         )}
 
         {/* Product Page CTA - Only show if user has product page enabled (PRO tier) */}
-        {theme.content?.productPage?.enabled && (
+        {theme.content?.productPages && Object.keys(theme.content.productPages).length > 0 && (
           <div className="mt-20 text-center">
             <div
               className={cn("p-12 border-2", getBorderRadiusClass())}
